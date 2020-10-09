@@ -9,12 +9,12 @@
     "sha256dBlockHasher": true
   },
   "poolAddress": {
-    "address": "76a914892b70294fcea4be8bf41b6c8e69fe79743b08f388ac",
+    "address": "13dQsauPkqSXYnwQedqaLRadtMm1tjCEPx",
     "type": "script"
   },
   "rewardRecipients": [
     {
-      "address": "76a914892b70294fcea4be8bf41b6c8e69fe79743b08f388ac",
+      "address": "13dQsauPkqSXYnwQedqaLRadtMm1tjCEPx",
       "type": "script",
       "percent": 0.01
     }
@@ -45,9 +45,9 @@
   "daemons": [
     {
       "host": "127.0.0.1",
-      "port": 18332,
-      "user": "bitcoinrpc",
-      "password": "testnet"
+      "port": 8332,
+      "user": "rymel",
+      "password": "h6a91c62a"
     }
   ],
   "api": {

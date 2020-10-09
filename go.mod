@@ -1,4 +1,4 @@
-module github.com/mining-pool/not-only-mining-pool
+module github.com/ashaw1131/mining-pool
 
 go 1.13
 
@@ -9,6 +9,7 @@ require (
 	github.com/gorilla/mux v1.7.4
 	github.com/ipfs/go-log v1.0.4
 	github.com/maoxs2/go-bech32 v0.0.0-20200326052701-80397988a8b6
+	github.com/ashaw1131/mining-pool
 	github.com/mr-tron/base58 v1.2.0
 	github.com/samli88/go-x11-hash v0.0.0-20180604013825-c37c1282f506
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9

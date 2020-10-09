@@ -65,6 +65,8 @@ github.com/maoxs2/go-bech32 v0.0.0-20200308091153-a6ae07d35e5b h1:0vggK32i+KDaEO
 github.com/maoxs2/go-bech32 v0.0.0-20200308091153-a6ae07d35e5b/go.mod h1:fyFA98gzSQiGVcfqFxEsgXKLEy3t3sb5q+Z/jp61Etk=
 github.com/maoxs2/go-bech32 v0.0.0-20200326052701-80397988a8b6 h1:F1jXhSXxD0HNUZAcWJI8POmhz2xogRQBtW9kMZvty8U=
 github.com/maoxs2/go-bech32 v0.0.0-20200326052701-80397988a8b6/go.mod h1:fyFA98gzSQiGVcfqFxEsgXKLEy3t3sb5q+Z/jp61Etk=
+github.com/mining-pool/not-only-mining-pool v0.0.0-20200622145606-2c133796fbb1 h1:UKsnVROJ0a+RHbjtp4/fODv2tCFGKXxDRz/OVu2jLCc=
+github.com/mining-pool/not-only-mining-pool v0.0.0-20200622145606-2c133796fbb1/go.mod h1:UdWgv0sXgK+e1clJl9mE8GbRU6LP/OGqWaTKfSBCmME=
 github.com/mr-tron/base58 v1.1.3 h1:v+sk57XuaCKGXpWtVBX8YJzO7hMGx4Aajh4TQbdEFdc=
 github.com/mr-tron/base58 v1.1.3/go.mod h1:BinMc/sQntlIE1frQmRFPUoPA1Zkr8VRgBdjWI2mNwc=
 github.com/mr-tron/base58 v1.2.0 h1:T/HDJBh4ZCPbU39/+c3rRvE0uKBQlU27+QI8LJ4t64o=
