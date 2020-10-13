@@ -50,7 +50,7 @@ or
 
 ## Donation
 
-**BTC**: 13dQsauPkqSXYnwQedqaLRadtMm1tjCEPx
+**BTC**: bc1qlr36tpdwctfndcdgzx5ukjkqazl5hclkurw08q
 
 ## Tested Network
 - LTC Testnet
