@@ -1,0 +1,45 @@
+# github.com/c0mm4nd/go-bech32 v0.0.0-20201015031713-6bb434e0ac5d
+github.com/c0mm4nd/go-bech32
+# github.com/go-redis/redis/v7 v7.4.0
+github.com/go-redis/redis/v7
+github.com/go-redis/redis/v7/internal
+github.com/go-redis/redis/v7/internal/consistenthash
+github.com/go-redis/redis/v7/internal/hashtag
+github.com/go-redis/redis/v7/internal/pool
+github.com/go-redis/redis/v7/internal/proto
+github.com/go-redis/redis/v7/internal/util
+# github.com/gorilla/mux v1.7.4
+github.com/gorilla/mux
+# github.com/ipfs/go-log/v2 v2.0.5
+github.com/ipfs/go-log/v2
+# github.com/mr-tron/base58 v1.2.0
+github.com/mr-tron/base58
+# github.com/samli88/go-x11-hash v0.0.0-20180604013825-c37c1282f506
+github.com/samli88/go-x11-hash
+github.com/samli88/go-x11-hash/aesr
+github.com/samli88/go-x11-hash/blake
+github.com/samli88/go-x11-hash/bmw
+github.com/samli88/go-x11-hash/cubehash
+github.com/samli88/go-x11-hash/echo
+github.com/samli88/go-x11-hash/groestl
+github.com/samli88/go-x11-hash/hash
+github.com/samli88/go-x11-hash/jh
+github.com/samli88/go-x11-hash/keccak
+github.com/samli88/go-x11-hash/luffa
+github.com/samli88/go-x11-hash/shavite
+github.com/samli88/go-x11-hash/simd
+github.com/samli88/go-x11-hash/skein
+# go.uber.org/atomic v1.6.0
+go.uber.org/atomic
+# go.uber.org/multierr v1.5.0
+go.uber.org/multierr
+# go.uber.org/zap v1.14.1
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/scrypt
