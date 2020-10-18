@@ -51,7 +51,7 @@ Copy `mining-pool` or `mining-pool.exe` and `config.json` to your VPS server and
 
 You will need Go and Redis-Server
  - Go - https://golang.org/
- - sudo apt install redis-server golang-go -y
+ - ```sudo apt install redis-server golang-go -y```
 
 $ ./mining-pool
 
@@ -65,7 +65,7 @@ or
 $ bitcoind -rpcuser user -rpcpass password --testnet
 ```
 
- - BTCD
+ - <a href="https://github.com/btcsuite/btcd">BTCD</a>
 ```
 $ ./btcd -rpcuser user -rpcpass password --testnet
 ```
