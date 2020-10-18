@@ -18,6 +18,26 @@ Make sure your algorithm is supported, eg: SHA256D, Scrypt, etc, if not, create 
 
 Edit `config.example.json` and modify the configuration to set your Coin Daemon Settings 
 
+ - Under daemons, you can add a primary and a backup Coin Server
+ ```
+ "daemons": [
+    // Primary Server
+    {
+      "host": "127.0.0.1",
+      "port": 19332,
+      "user": "litecoinrpc",
+      "password": "testnet"
+    }
+    // Backup Server
+    {
+      "host": "127.0.0.1",
+      "port": 19332,
+      "user": "litecoinrpc",
+      "password": "testnet",
+      "tls": {} // means tls enabled
+    }
+  ],
+ ```
 Then rename it to `config.json` 
 
 ### Build
