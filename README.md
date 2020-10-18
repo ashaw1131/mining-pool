@@ -50,8 +50,8 @@ go build
 Copy `mining-pool` or `mining-pool.exe` and `config.json` to your VPS server and  
 
 You will need Go and Redis-Server
-Go - https://golang.org/doc/install
-sudo apt install redis-server -y
+ - Go - https://golang.org/
+ - sudo apt install redis-server golang-go -y
 
 $ ./mining-pool
 
@@ -59,6 +59,21 @@ or
 
 > mining-pool.exe
 
+## Help
+ - Bitcoind
+```
+$ bitcoind -rpcuser user -rpcpass password --testnet
+```
+
+ - BTCD
+```
+$ ./btcd -rpcuser user -rpcpass password --testnet
+```
+
+ - Litcoind
+```
+$ ./litcoind -rpcuser user -rpcpass password --testnet
+```
 
 ## TODO
 
