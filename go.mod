@@ -1,4 +1,4 @@
-module github.com/mining-pool/not-only-mining-pool
+module github.com/ashaw1131/mining-pool
 
 go 1.13
 
