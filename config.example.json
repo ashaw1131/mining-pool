@@ -44,6 +44,14 @@
     }
   },
   "daemons": [
+    # Primary Server
+    {
+      "host": "127.0.0.1",
+      "port": 19332,
+      "user": "litecoinrpc",
+      "password": "testnet"
+    }
+    # Backup Server
     {
       "host": "127.0.0.1",
       "port": 19332,
