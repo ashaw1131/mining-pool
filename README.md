@@ -53,7 +53,7 @@ You will need Go and Redis-Server
  - Go - https://golang.org/
  - ```sudo apt install redis-server golang-go -y```
 
-$ ./mining-pool
+> $ ./mining-pool
 
 or
 
@@ -61,19 +61,14 @@ or
 
 ## Help
  - Bitcoind
-```
-$ bitcoind -rpcuser user -rpcpass password --testnet
-```
+> $ bitcoind -rpcuser user -rpcpass password --testnet
+
 
  - <a href="https://github.com/btcsuite/btcd">BTCD</a>
-```
-$ ./btcd -rpcuser user -rpcpass password --testnet
-```
+> $ ./btcd -rpcuser user -rpcpass password --testnet
 
  - Litcoind
-```
-$ ./litcoind -rpcuser user -rpcpass password --testnet
-```
+> $ ./litcoind -rpcuser user -rpcpass password --testnet
 
 ## TODO
 
