@@ -50,8 +50,8 @@ or
 
 ## Donation
 
-**BTC**: bc1qlr36tpdwctfndcdgzx5ukjkqazl5hclkurw08q
-**LTC**: M9SbgRV96Pg1rGVAfjvn8tVumio9MpESz5
+  - **BTC**: bc1qlr36tpdwctfndcdgzx5ukjkqazl5hclkurw08q
+  - **LTC**: M9SbgRV96Pg1rGVAfjvn8tVumio9MpESz5
 
 ## Tested Network
 - LTC Testnet
